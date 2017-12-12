@@ -46,7 +46,8 @@ Instalando Anaconda con su navegador, en l aúltima versión ya viene preparado 
 
 Es recomendable leer, alguna de las característica de Anaconda en el siguiente material [conda 30-minutes test drive](http://conda.pydata.org/docs/test-drive.html).
 
-**Otros proyectos y librerias interesnates de tener cargados:**
+**Otros proyectos y librerias interesantes para utilizar con este entorno:**
+
  * La instalación de paquetes como [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) o [bokeh](http://bokeh.pydata.org/en/latest/) se pueden realizar a través de Anaconda, de la siguiente manera:
 
 
@@ -243,8 +244,9 @@ La instalación de PostgreSQL en Linux, se da en la siguiente [página](https://
 ```
 install.packages("roxygen2")
 ```
-### Ejemplos de Notebooks en R
+### Explicacióń y partes del Seminario con ejemplos de Notebooks en R
 
-  - [ testthat](https://github.com/hadley/testthat).
-  - Consistencia.
+1. **Introducción a Jupyter Notebook** [introducción](https://github.com/NachusS/Introduccion-R-Jupyter/blob/master/Introduccion-Jupyter.md)
+
+2. **Ejemplo de Notebook en R**
 
