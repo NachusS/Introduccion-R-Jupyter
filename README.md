@@ -244,9 +244,11 @@ La instalación de PostgreSQL en Linux, se da en la siguiente [página](https://
 ```
 install.packages("roxygen2")
 ```
-### Explicacióń y partes del Seminario con ejemplos de Notebooks en R
+### Explicacióń y partes del Seminario con ejemplos de Notebooks en R ------------------------------
 
 1. **Introducción a Jupyter Notebook** [introducción](https://github.com/NachusS/Introduccion-R-Jupyter/blob/master/Introduccion-Jupyter.md)
 
 2. **Ejemplo de Notebook en R**
+* [Trabajando con Datos](http://localhost:8888/notebooks/Curso-R/DatosR/Datos2.ipynb)
+* [Ejemplos de Gráficos](https://github.com/NachusS/Introduccion-R-Jupyter/blob/master/Graficos_R1.ipynb)
 
