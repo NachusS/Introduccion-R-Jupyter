@@ -249,6 +249,6 @@ install.packages("roxygen2")
 1. **Introducción a Jupyter Notebook** [introducción](https://github.com/NachusS/Introduccion-R-Jupyter/blob/master/Introduccion-Jupyter.md)
 
 2. **Ejemplo de Notebook en R**
-* [Trabajando con Datos](http://localhost:8888/notebooks/Curso-R/DatosR/Datos2.ipynb)
+* [Trabajando con Datos](https://github.com/NachusS/Introduccion-R-Jupyter/blob/master/DatosR/Datos2.ipynb)
 * [Ejemplos de Gráficos](https://github.com/NachusS/Introduccion-R-Jupyter/blob/master/Graficos_R1.ipynb)
 
