@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<catalog>
+   <libro id="bk101">
+      <autor>Gambardella, Matthew</autor>
+      <titulo>XML Developer's Guide</titulo>
+      <genero>Computadoras</genero>
+      <precio>44.95</precio>
+      <fecha_publicacion>2000-10-01</fecha_publicacion>
+   </libro>
+   <libro id="bk102">
+      <autor>Ralls, Kim</autor>
+      <titulo>Noche de tormenta</titulo>
+      <genero>Fantasia</genero>
+      <precio>5.95</precio>
+      <fecha_publicacion>2000-12-16</fecha_publicacion>
+   </libro>
+   <libro id="bk103">
+      <autor>Corets, Eva</autor>
+      <titulo>Subiendo las escaleras</titulo>
+      <genero>Fantasia</genero>
+      <precio>5.95</precio>
+      <fecha_publicacion>2000-11-17</fecha_publicacion>
+   </libro>
+   <libro id="bk104">
+      <autor>Corets, Eva</autor>
+      <titulo>Python 3.5</titulo>
+      <genero>Programacion</genero>
+      <precio>5.95</precio>
+      <fecha_publicacion>2001-03-10</fecha_publicacion>
+   </libro>
+   <libro id="bk105">
+      <autor>Corets, Eva</autor>
+      <titulo>La casa de la carretera 31</titulo>
+      <genero>Terror</genero>
+      <precio>5.95</precio>
+      <fecha_publicacion>2001-09-10</fecha_publicacion>
+   </libro>
+   <libro id="bk106">
+      <autor>Randall, Cynthia</autor>
+      <titulo>Un encuentro inesperado</titulo>
+      <genero>Romance</genero>
+      <precio>4.95</precio>
+      <fecha_publicacion>2000-09-02</fecha_publicacion>
+   </libro>
+   <libro id="bk107">
+      <autor>Thurman, Paula</autor>
+      <titulo>Ubik</titulo>
+      <genero>sci-fi</genero>
+      <precio>4.95</precio>
+      <fecha_publicacion>2000-11-02</fecha_publicacion>
+   </libro>
+   <libro id="bk109">
+      <autor>Galos, Mike</autor>
+      <titulo>Visual Studio 7: Un guia completa</titulo>
+      <genero>Computacion</genero>
+      <precio>49.95</precio>
+      <fecha_publicacion>2001-04-16</fecha_publicacion>
+   </libro>
+</catalog>
