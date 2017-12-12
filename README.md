@@ -3,58 +3,27 @@ Utilización de Jupyter Notebook con R. (Herramienta didáctica)
 # Seminario utilización Jupyter Notebook con R, en clase.
 
 ## Esta documentación ha sido clonada del (Sitio web del curso de R)
-
+Autor: (Cesar Lara)
 * http://c-lara.github.io/Curso-R/ 
 
 ## Introducción
 
-Este curso es un complemento del curso [**Introducción a las estadística y probabilidad CM274**](http://c-lara.github.io/Curso-Probabilidad/), sobre el aprendizaje del lenguaje R. En estas notas  usaremos un [kernel nativo de R](https://github.com/IRkernel/IRkernel), sobre [Jupyter](http://jupyter.org/) usando [Anaconda](https://www.continuum.io/anaconda-overview), además de otras herramientas mencionadas abajo.
+En este seminario se pretende mostrar la facilidad de manejo y las múltiples posibilidades que tenemos al utilizar
+Jupyter notebook, con R o Python, tanto en clase, pŕácticas o entrega de Informes finales.
+
+Se usará un [kernel nativo de R](https://github.com/IRkernel/IRkernel), sobre [Jupyter](http://jupyter.org/) descargado a traves de [Anaconda](https://www.continuum.io/anaconda-overview), además de otras herramientas mencionadas abajo.
 
 R como lenguaje de programación y multiparadigma, plantea un modo distinto de escribir código, por lo que  precisa de ciertos requisitos, que se enumeran a continuación:
 
 
-## Temario
+## Elementos Clave
 
 * Manejo de línea de comandos y Markdown.
 * Uso de Git y Github.
 * El lenguage de programación R.
 * R básico.
-* Vectores, matrices y arrays.
-* Listas, data frames, cadena, factores y tablas
-* Trabajando con datos.
-*  Estructuras de programación .   
-* Entornos y funciones.
 * Gráficos.
-* Aplicaciones a la probabilidad e inferencia estadística y Bayesiana. 
 
-### Horarios de clase
-
-* Viernes de 12 - 14 pm Sala 2.
-* Viernes de 14 - 16 pm Sala 1.
-   
-###  Acerca de la evaluación
-
-La evaluación de este curso, consta de 4 laboratorios calificados. Los participantes del curso deberan subir sus soluciones a sus respectivos repositorios creados en las primeras clases. No se permitirá envios fuera de horario al examen, salvo para completar la tarea si es que el participante desea. 
-
-A lo largo del curso se dejarán tareas domiciliarias, estos trabajos no son obligatorios, pero puntuan en su calificación final. Todos los trabajos se presentaran en su respectivo repositorio en Github. Es decir el participante debe completar lo siguiente:
-
-* Repositorio en Github.
-* Las prácticas calificadas (4).
-* Las tareas y asignaciones dejadas a lo largo del curso.
-
-### Fechas de evaluación
-
-* Primera práctica calificada: 29 de setiembre.
-* Segunda pŕactica calificada: 20 de octubre.
-* Tercera práctica calificada: 17 de noviembre.
-* Cuarta  práctica calificada: 1 de diciembre
-
-
-## Libros de Texto
-
-- Hands on Programming with R, Garret Grolemund, O'really Media, 2014
--  **Using R for Introductory Statistics**, John Verzani, June 26, 2014 by Chapman and Hall/CRC.
--  An Introduction to Statistical Learning: with applications in R, Gareth James, Trevor Hastie, Robert Tibshirani, Daniel Witten, Springer, 2015.
 
 ## Software
 
@@ -73,9 +42,11 @@ más o menos así,
 bash Anaconda3-2.4.1-Linux-x86_64.sh
 
 ```
+Instalando Anaconda con su navegador, en l aúltima versión ya viene preparado la descarga del lenguaje R, para que se pueda utilizar con los notebooks. De todas formas aqui explico, como se puede instalar desde la linea de comandos, si ya se tuvieviera instalado Anaconda.
 
 Es recomendable leer, alguna de las característica de Anaconda en el siguiente material [conda 30-minutes test drive](http://conda.pydata.org/docs/test-drive.html).
 
+**Otros proyectos y librerias interesnates de tener cargados:**
  * La instalación de paquetes como [seaborn](http://stanford.edu/~mwaskom/software/seaborn/) o [bokeh](http://bokeh.pydata.org/en/latest/) se pueden realizar a través de Anaconda, de la siguiente manera:
 
 
@@ -272,7 +243,7 @@ La instalación de PostgreSQL en Linux, se da en la siguiente [página](https://
 ```
 install.packages("roxygen2")
 ```
-### Pruebas unitarias
+### Ejemplos de Notebooks en R
 
   - [ testthat](https://github.com/hadley/testthat).
   - Consistencia.
